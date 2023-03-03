@@ -1,2 +1,8 @@
 # marcuscorrea
 Portfolio for marcus
+
+## MASONRY AND BOOTSTRAP FOR GRID CARDS
+
+## BOOTSTRAP PRODUCT EXAMPLES
+
+## FONT ARCHIVO
