@@ -1,0 +1,27 @@
+{
+  "name": "marcuscorrea-main",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "open index.html in google chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itlleat/marcuscorrea.git"
+  },
+  "keywords": [
+    "fashion",
+    "style",
+    "new",
+    "york",
+    "los",
+    "angeles"
+  ],
+  "author": "scott schulman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itlleat/marcuscorrea/issues"
+  },
+  "homepage": "https://github.com/itlleat/marcuscorrea#readme"
+}
